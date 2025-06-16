@@ -1,7 +1,6 @@
 # DDos Security
 
-
-![DDoSAttack](https://github.com/user-attachments/assets/5c4fbf2c-4775-4d38-a7b9-5ac7d9d3aafe)
+![immagine](https://github.com/user-attachments/assets/d9f4a6d4-3012-4e78-b3e3-b97ec30352a6)
 
 ## Explanation of what this tool is:
 Le porte di un sistema operativo sono endpoint di comunicazione virtuali che permettono 
