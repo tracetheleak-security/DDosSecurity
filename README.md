@@ -1,6 +1,8 @@
 # DDos Security
 
 ![immagine](https://github.com/user-attachments/assets/d9f4a6d4-3012-4e78-b3e3-b97ec30352a6)
+
+
 ##Protect a system, website or online service from being overwhelmed by an enormous amount of malicious traffic coming from multiple distributed sources (often botnets). The goal of a DDoS attack is to make the legitimate service inaccessible to real users.
  
 ##   Network level defense (Layer 3/4 - IP, TCP, UDP)
